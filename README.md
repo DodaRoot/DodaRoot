@@ -7,7 +7,6 @@ I am currently learning JS and in doing so making a lot of projects,
 My current Projects are:
 https://dodaroot.github.io/PixelPaint-JS/ , 
 https://dodaroot.github.io/RockPaperScissors-JS/ , 
-https://dodaroot.github.io/Calculator-JS/ 
 but I look foward to making many more,
 
 You can reach me on Facebok Linkedin Instagram etc.
