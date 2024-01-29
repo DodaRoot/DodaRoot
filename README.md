@@ -5,9 +5,9 @@ My name is Dode Doda,
 I am currently learning JavaScript
 
 # Technologies I work with
-HTML / ✅ -
-CSS / ✅ -
-JacaScript / ✅
+HTML ✅ -
+CSS ✅ -
+JacaScript ✅
 
 # My current Projects
 PixelPaint - https://dodaroot.github.io/PixelPaint-JS/ , 
