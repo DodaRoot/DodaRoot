@@ -7,6 +7,7 @@ I am currently learning JavaScript
 # Technologies I work with
 HTML ✅ -
 CSS ✅ -
+Bootstrap ✅ -
 JacaScript ✅
 
 # My current Projects
