@@ -10,12 +10,6 @@ CSS ✅ -
 Bootstrap ✅ -
 JacaScript ✅
 
-# My current Projects
-PixelPaint - https://dodaroot.github.io/PixelPaint-JS/ , 
-RockPaperScissors - https://dodaroot.github.io/RockPaperScissors-JS/ , 
-TikTakToe - https://dodaroot.github.io/TikTakToe/
-Calculator - https://dodaroot.github.io/Calculator/
-but I look foward to making many more.
 <!--
 **DodaRoot/DodaRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
