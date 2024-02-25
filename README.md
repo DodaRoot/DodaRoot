@@ -4,7 +4,7 @@ Hello my name is Dodë Doda I am a enthusiastic Web Developer I spend my time le
 
 # Technologies I work with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 <!--
 **DodaRoot/DodaRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
