@@ -1,11 +1,4 @@
-# Hi there 👋
-
-Hello my name is Dodë Doda I am a enthusiastic Web Developer I spend my time learning new skills and refining my coding abilities 💪
-
-# Technologies I work with
-
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)
-
+# Hello there 👁️
 <!--
 **DodaRoot/DodaRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
